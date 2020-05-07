@@ -8,7 +8,6 @@ import 'package:image_picker/image_picker.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:amazon_s3_cognito/amazon_s3_cognito.dart';
 import 'package:amazon_s3_cognito/aws_region.dart';
-// import 'package:aws_ai/aws_ai.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
 import 'package:progress_dialog/progress_dialog.dart';
 import '../models/user.dart';
