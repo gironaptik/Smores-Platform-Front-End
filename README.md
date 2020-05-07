@@ -1,5 +1,4 @@
-# smores_app
+# Smores App
 
 Smores Client-Side Platform based on Flutter
 
-## Getting Started
